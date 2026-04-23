@@ -1,8 +1,8 @@
-# Text2SQL - 基于Vanna.AI的自然语言转SQL工具
+# NL2SQL - 基于Vanna.AI的自然语言转SQL工具
 
 ## 项目简介
 
-Text2SQL是一个基于Vanna.AI框架的自然语言转SQL查询工具，集成了千问大模型和ChromaDB向量数据库。该工具提供了直观的Web界面，支持模型训练、SQL生成和查询执行等功能。
+NL2SQL是一个基于Vanna.AI框架的自然语言转SQL查询工具，集成了千问大模型和ChromaDB向量数据库。该工具提供了直观的Web界面，支持模型训练、SQL生成和查询执行等功能。
 
 ## 功能特性
 
